@@ -12,5 +12,19 @@
     "date": "2025-10-15",
     "excerpt": "Another example post to show multiple entries.",
     "filename": "second-post.md"
+  },
+  {
+    "slug": "test8",
+    "title": "test8",
+    "date": "2025-09-07",
+    "excerpt": "test8 - Another example post to show multiple entries.",
+    "filename": "2025-09-07-test8.md"
+  },
+  {
+    "slug": "test1",
+    "title": "test1",
+    "date": "2025-08-26",
+    "excerpt": "test1 - Another example post to show multiple entries.",
+    "filename": "2025-08-26-test1.md"
   }
 ]
